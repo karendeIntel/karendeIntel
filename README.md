@@ -54,7 +54,6 @@
 <h3 align="center">Robotic Process Automation (RPA)</h3>
  
 ![UiPath](https://img.shields.io/badge/UiPath-F05032.svg?&style=flat-square&logo=UiPath&logoColor=white)
-![BluePrism](https://img.shields.io/badge/Blue%20Prism-071D49.svg?&style=flat-square&logo=BluePrism&logoColor=white)
 
 <h3 align="center">Data Transformations Solutions</h3>
  
